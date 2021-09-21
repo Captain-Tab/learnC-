@@ -14,5 +14,4 @@ int main()
   cout << "In 10 years you will earn" << annualSalary * 10;
 
   char character = 'a';
-  
 }
