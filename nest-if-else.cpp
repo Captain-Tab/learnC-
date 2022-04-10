@@ -12,11 +12,10 @@ int main()
 
   if(a == b && b == c)
     cout << "\nThis is Equailateral triangle" ;
-  else{
+  else
     if(a != b && a != c && b != c) 
       cout << "\nThis is scalene triangle";
     else
       cout << "\nThis is isosceles triangle";
-  }
   cout << "\nDone" << endl;
 }
